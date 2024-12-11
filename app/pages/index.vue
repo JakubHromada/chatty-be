@@ -137,7 +137,7 @@
                         <h3 class="text-5xl font-bold mb-8 text-left">
                             <span class="heading-highlight">Hi, I'm Olka...</span>
                         </h3>
-                        <p class="text-xl text-gray-600 dark:text-gray-300 leading-relaxed pl-4">
+                        <p class="text-xl text-gray-800 dark:text-gray-200 leading-relaxed pl-6">
                             I'm passionate about helping you achieve your English language goals. With years of experience and a
                              personalized approach, I ensure that each lesson is tailored to your unique needs and learning style. 
                              Let's embark on this journey together and make learning English an enjoyable and rewarding experience.

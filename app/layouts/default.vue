@@ -81,7 +81,4 @@ export default {
     background-color: #1a202c;
 }
 
-.font-serif {
-    font-family: 'Georgia', serif;
-}
 </style>
